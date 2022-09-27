@@ -1,5 +1,12 @@
-This is the repository of bo's course cs128 mp3.
-Today is 2022 sept 27th.
-Today is sunny.
-Git has a mutable index called stage.
-Git tracks changes of files.
+1) git init
+
+2) git add <filename>
+
+3) git commit -m "comment"
+
+4) git diff
+
+5) git log / git reflog
+
+6) git reset --hard <id> 
+	
